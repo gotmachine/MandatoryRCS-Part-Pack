@@ -7,7 +7,7 @@ Tiny thrusters (0.25 kN)   |  With tiny exhaust effect |  RV-105 variations
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/tiny%20thrusters.jpg)  |  ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/microRCS%20exhaust.jpg) |  ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/RV-105%20variations.jpg)
 
-#### Download & source
+## Download & source
 I highly recommend that you grab it from **CKAN** !
 
 But you can also get the [latest release and source](https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases/latest) from github

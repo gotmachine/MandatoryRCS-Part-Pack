@@ -7,9 +7,13 @@ Tiny thrusters (0.25 kN)   |  With tiny exhaust effect |  RV-105 variations
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/tiny%20thrusters.jpg)  |  ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/microRCS%20exhaust.jpg) |  ![](https://raw.githubusercontent.com/gotmachine/MandatoryRCS-Part-Pack/master/Screenshots/WIP/RV-105%20variations.jpg)
 
+#### Download & source
+I highly recommend that you grab it from **CKAN** !
+But you can also get the [latest release and source](https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases/latest) from github
+
 ## Licensing
 This masterful work of art is released under the [unlicense](http://unlicense.org/). 
-So public domain, feel free to do anything, especially updating this plugin if I'm not around.
+So public domain, feel free to do anything, especially updating this mod if I'm not around.
 
 ## Changelog
 

@@ -19,6 +19,9 @@ So public domain, feel free to do anything, especially updating this mod if I'm 
 
 ## Changelog
 
+#### v1.1 for KSP 1.2, 1.3 & 1.4
+- Marked as compatible with KSP 1.4
+
 #### v1.0 for KSP 1.2 & 1.3
 - Initial release
 

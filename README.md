@@ -19,6 +19,9 @@ So public domain, feel free to do anything, especially updating this mod if I'm 
 
 ## Changelog
 
+#### v1.3 for KSP 1.2 to 1.7
+- Fixed Restock compatibility (thanks GordonDry)
+
 #### v1.2 for KSP 1.2 to 1.7
 - Add MM patching logic to point textures at the depreciated Squad RV-105 textures if needed
 - Marked as compatible with KSP 1.2 > 1.7

@@ -19,6 +19,9 @@ So public domain, feel free to do anything, especially updating this mod if I'm 
 
 ## Changelog
 
+#### v1.4 for KSP 1.2 to 1.7
+- Moved tiny thruster to "stability" tech tree node
+
 #### v1.3 for KSP 1.2 to 1.7
 - Fixed Restock compatibility (thanks GordonDry)
 

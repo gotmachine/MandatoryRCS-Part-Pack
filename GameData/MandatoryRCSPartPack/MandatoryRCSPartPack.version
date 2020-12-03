@@ -1,36 +1,36 @@
 {
-  "NAME":"MandatoryRCS Part Pack",
-  "URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/154658-122-mandatoryrcs-12-1801-reaction-wheels-nerf-sas-rotation-persistence/",
-  "DOWNLOAD":"https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases",
+  "NAME": "MandatoryRCS Part Pack",
+  "URL": "https://github.com/gotmachine/MandatoryRCS-Part-Pack/raw/master/GameData/MandatoryRCSPartPack/MandatoryRCSPartPack.version",
+  "DOWNLOAD": "https://github.com/gotmachine/MandatoryRCS-Part-Pack/releases",
   "GITHUB":
   {
-      "USERNAME":"gotmachine",
-      "REPOSITORY":"MandatoryRCS-Part-Pack",
-      "ALLOW_PRE_RELEASE":false,
+      "USERNAME": "gotmachine",
+      "REPOSITORY": "MandatoryRCS-Part-Pack",
+      "ALLOW_PRE_RELEASE": false,
   },
   "VERSION":
   {
-      "MAJOR":1,
-      "MINOR":4,
-      "PATCH":0,
-      "BUILD":0
+      "MAJOR": 1,
+      "MINOR": 4,
+      "PATCH": 0,
+      "BUILD": 0
   },
   "KSP_VERSION":
   {
-      "MAJOR":1,
-      "MINOR":7,
-      "PATCH":0
+      "MAJOR": 1,
+      "MINOR": 7,
+      "PATCH": 0
   },
   "KSP_VERSION_MIN":
   {
-      "MAJOR":1,
-      "MINOR":0,
-      "PATCH":0
+      "MAJOR": 1,
+      "MINOR": 0,
+      "PATCH": 0
   },
   "KSP_VERSION_MAX":
   {
-      "MAJOR":1,
-      "MINOR":7,
-      "PATCH":9
+      "MAJOR": 1,
+      "MINOR": 7,
+      "PATCH": 9
   }
 }
